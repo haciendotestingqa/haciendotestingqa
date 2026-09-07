@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" width="20" height="20" alt="" /> I am a **QA Engineer** focused on **software quality**: clear acceptance criteria, traceable defects, and testing that reflects real environments (devices, browsers, emulators).
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" width="20" height="20" alt="" /> I am a **AI QA Engineer** focused on **software quality**: clear acceptance criteria, traceable defects, and testing that reflects real environments (devices, browsers, emulators).
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ea.svg" width="20" height="20" alt="" /> I focus on **manual testing**, **integration testing** (including API and BDD-style scenarios where the team uses them), and **end-to-end flows** — plus regression, functional coverage, and accessibility checks when the product needs them. I work with **Agile/Scrum** in remote, multicultural teams.
 
