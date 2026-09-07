@@ -10,7 +10,7 @@
 
 # <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" width="28" height="28" alt="Wave" /> Hi, I'm Veronica Romero
 
-### QA Engineer | Manual & Automated Testing | AI Power User (Cursor, MCP, Skills) | Integration, Regression & E2E | Strategic Analytical Mindset | Agile Methodology
+### AI QA Engineer | SDET | Web, Mobile & API Automation Specialist (Playwright, TypeScript, Maestro, K6, Pact) | Testing & Quality for AI-Driven Applications | C1 English
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="18" height="18" alt="" /> *Analytical mindset — issues surfaced early*
 
