@@ -38,6 +38,10 @@
 
 </div>
 
+---
+
+<br>
+
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="20" height="20" alt="" /> **Languages:** Spanish (native), English (professional working proficiency), Japanese (basic).
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="20" height="20" alt="" /> **GitHub — hands-on examples (API, integration, E2E):** [github.com/haciendotestingqa](https://github.com/haciendotestingqa)
