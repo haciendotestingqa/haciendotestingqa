@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/veronica-milagros-romero-garces/"><img src="https://badgen.net/badge/LinkedIn/Profile/0A66C2?icon=linkedin&amp;scale=1.7&amp;labelColor=0A66C2" alt="LinkedIn profile" /></a>
   &nbsp;&nbsp;
-  <a href="https://haciendotestingqa.my.canva.site/intro-haciendo-testing-qa"><img src="https://badgen.net/badge/Portfolio/%28Canva%29/00C4CC?icon=canva&amp;scale=1.7&amp;labelColor=00C4CC" alt="Portfolio on Canva" /></a>
+  <a href="https://haciendotestingqa.my.canva.site/portfolio-haciendo-testing-qa"><img src="https://badgen.net/badge/Portfolio/%28Canva%29/00C4CC?icon=canva&amp;scale=1.7&amp;labelColor=00C4CC" alt="Portfolio on Canva" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/haciendotestingqa"><img src="https://badgen.net/badge/GitHub/Profile/181717?icon=github&amp;scale=1.7&amp;labelColor=181717" alt="GitHub profile" /></a>
 </p>
