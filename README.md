@@ -36,6 +36,8 @@
 - <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="18" height="18" alt="" /> <strong>Analytics:</strong> events tracking with Google Analytics and Google Tag Manager.
 - <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg" width="18" height="18" alt="" /> <strong>AI-Driven QA & Development Tools:</strong> GitHub for version control; Android Studio, Xcode, AWS Device Farm; IDEs, MCP, Skills, LLM evaluation (accuracy, relevance, hallucination checks) and AI-assisted workflows—with subsequent human review.
 
+</div>
+
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="20" height="20" alt="" /> **Languages:** Spanish (native), English (professional working proficiency), Japanese (basic).
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="20" height="20" alt="" /> **GitHub — hands-on examples (API, integration, E2E):** [github.com/haciendotestingqa](https://github.com/haciendotestingqa)
