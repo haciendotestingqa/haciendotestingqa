@@ -10,7 +10,7 @@
 
 # <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" width="28" height="28" alt="Wave" /> Hi, I'm Veronica Romero
 
-### AI QA Engineer | SDET | Web, Mobile & API Automation Specialist (Playwright, TypeScript, Maestro, K6, Pact) | Testing & Quality for AI-Driven Applications | C1 English
+### AI QA Engineer | SDET | Web, Mobile & API Automation Specialist (Playwright, TypeScript, Maestro, K6, Pact, Newman) | Testing & Quality for AI-Driven Applications | C1 English
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="18" height="18" alt="" /> *Analytical mindset — issues surfaced early*
 
@@ -22,19 +22,19 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" width="20" height="20" alt="" /> I am a **AI QA Engineer** focused on **software quality**: clear acceptance criteria, traceable defects, and testing that reflects real environments (devices, browsers, emulators).
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" width="20" height="20" alt="" /> I am an <strong>AI QA Engineer & SDET</strong> focused on <strong>software quality</strong>: clear acceptance criteria, traceable defects, and testing that reflects real environments (devices, browsers, emulators).<br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ea.svg" width="20" height="20" alt="" /> I focus on **manual testing**, **integration testing** (including API and BDD-style scenarios where the team uses them), and **end-to-end flows** — plus regression, functional coverage, and accessibility checks when the product needs them. I work with **Agile/Scrum** in remote, multicultural teams.
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ea.svg" width="20" height="20" alt="" /> I focus on manual testing, integration testing (including API, contract testing with Pact, and BDD-style scenarios where the team uses them), and end-to-end flows — plus regression, functional coverage, performance validation with K6, AI quality evaluations, and accessibility checks when the product needs them. I work with <strong>Agile/Scrum</strong> in remote, multicultural teams.<br><br>
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="20" height="20" alt="" /> In my services, I offer
 
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4cb.svg" width="18" height="18" alt="" /> **Test Design:** Testmo: for test cases, scenarios, and plans based on requirements and risk.
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f517.svg" width="18" height="18" alt="" /> **Integration and APIs:** Postman, Newman, Bruno; for code, payloads, and negative test cases.
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3ad.svg" width="18" height="18" alt="" /> **End-to-End Automation:** Playwright, Maestro; for using stable selectors and a maintainable structure.
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f433.svg" width="18" height="18" alt="" /> **Environments and Data:** Docker for isolated executions; MariaDB, MySQL, PostgreSQL: for database validation.
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="18" height="18" alt="" /> **Analytics:** events with Google Analytics and Google Tag Manager.
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="18" height="18" alt="" /> **Project Tools:** Jira, Xray, Confluence, Freshdesk: for project and ticket management; Figma: for prototype visualization.
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="18" height="18" alt="" /> **Development Tools:** GitHub; for version control; IDEs, MCP, Skills: for LLM-assisted workflows—with subsequent human review.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4cb.svg" width="18" height="18" alt="" /> <strong>Test Design & Management:</strong> Testmo, Jira, Xray, Confluence, Freshdesk: for test cases, scenarios, plans, and ticket management based on requirements and risk; Figma for prototype visualization.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f517.svg" width="18" height="18" alt="" /> <strong>Integration, APIs & Contracts:</strong> Postman, Newman, Bruno, Pact; for code, payloads, negative test cases, and microservices contract validation.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3ad.svg" width="18" height="18" alt="" /> <strong>End-to-End & Mobile Automation:</strong> Playwright (Web), Maestro (Mobile Android/iOS); for using stable selectors and a maintainable structure.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="18" height="18" alt="" /> <strong>Performance & Scalability:</strong> K6; for load, stress, and latency testing under heavy traffic spikes.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f433.svg" width="18" height="18" alt="" /> <strong>Environments and Data:</strong> Docker for isolated executions; MariaDB, MySQL, PostgreSQL, DBeaver: for database validation.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="18" height="18" alt="" /> <strong>Analytics:</strong> events tracking with Google Analytics and Google Tag Manager.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg" width="18" height="18" alt="" /> <strong>AI-Driven QA & Development Tools:</strong> GitHub for version control; Android Studio, Xcode, AWS Device Farm; IDEs, MCP, Skills, LLM evaluation (accuracy, relevance, hallucination checks) and AI-assisted workflows—with subsequent human review.
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="20" height="20" alt="" /> **Languages:** Spanish (native), English (professional working proficiency), Japanese (basic).
 
