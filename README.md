@@ -1,7 +1,7 @@
 <!-- GitHub profile: https://github.com/haciendotestingqa/haciendotestingqa -->
 <!-- Emojis como imágenes Twemoji (CDN) para que se vean bien aunque el SO/navegador no pinte Unicode. -->
 <p align="center">
-  <img width="100%" alt="Veronica Romero — QA Engineer banner" src="assets/banner.png" />
+  <img width="100%" alt="Veronica Romero — AI QA Automation Engineer banner" src="assets/profile-banner.png" />
 </p>
 
 <br>
